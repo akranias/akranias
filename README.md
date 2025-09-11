@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Athanasios Kranias, PhD, MPhil, MSc
 
-🎓 Researcher & Data Analyst specializing in **machine learning, risk analytics, and financial engineering**.  
+🎓 Researcher & Data Analyst specializing in **machine learning, risk analytics, and financial engineering** at Athens University of Economics & Business.  
 📊 Experience across **banking, consulting, and academia** with expertise in data pipelines, regulatory reporting, and predictive modeling.  
-🌱 Current PhD research for **Financial Engineering Research Center (FRC)** of the Management Science Laboratory (MLS) **ML in decentralized finance (DeFi)** and **sustainable finance (ESG investment)**.  
+🌱 Current PhD research for **Financial Engineering Research Center (FRC)** of the Management Science Laboratory (MLS) **ML in decentralized finance (DeFi)** .  
 
 ---
 
