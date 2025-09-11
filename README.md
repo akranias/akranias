@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hello, I'm Athanasios Kranias, PhD, MPhil, MSc
 
-<!--
-**akranias/akranias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Researcher & Data Analyst specializing in **machine learning, risk analytics, and financial engineering**.  
+📊 Experience across **banking, consulting, and academia** with expertise in data pipelines, regulatory reporting, and predictive modeling.  
+🌱 Current PhD research for **Financial Engineering Research Center (FRC)** of the Management Science Laboratory (MLS) **ML in decentralized finance (DeFi)** and **sustainable finance (ESG investment)**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+- Credit Risk, Capital Adequacy, and Regulatory Reporting  
+- Machine Learning in Finance & Risk Analytics  
+- Sustainable Finance (ESG) & Green Investment Performance  
+- Decentralized Finance & Asset Valuation  
+
+---
+
+## 📝 Selected Publications
+- **Green Companies and Financial Performance: The Green Premium**  
+  *International Review of Economics & Finance, Elsevier (2024)*  
+  [[DOI Link]](https://doi.org/10.1016/j.iref.2024.103525)  
+
+- **Predictive Valuation of Non-Fungible Tokens: ML Models in DeFi** *(under review)*  
+
+
+---
+
+## 🛠️ Skills & Tools
+**Programming & Analytics:** Python, R, SQL, STATA, SAS, EViews  
+**Data & Visualization:** Power BI, Tableau, Azure Databricks  
+**Finance & Risk:** Basel III Capital Adequacy, Credit Risk, Predictive Analytics  
+**Global Financial Terminals:** Bloomberg, Reuters DataStream 
+
+Languages: 🇬🇧 English (C2), 🇩🇪 German (B2)  
+Certifications: ACCA Candidate  
+
+---
+
+## 🌐 Connect With Me
+- 🔗 [LinkedIn](https://linkedin.com/in/akranias)  
+- 📖 [ResearchGate](https://researchgate.net/profile/Athanasios_Kranias)  
+
+---
+⭐️ *I believe in open science and reproducible research. Selected projects, datasets, and code will appear here soon.*
