@@ -22,9 +22,8 @@
   [[DOI Link]](https://doi.org/10.1016/j.iref.2024.103525)  
 
 - **Predictive Valuation of Non-Fungible Tokens: ML Models in DeFi** *(under review)*
-- *Journal of Risk and Financial Management, MDPI (2026)*
-- [[DOI Link]](https://doi.org/10.3390/jrfm19020126)
-
+  *Journal of Risk and Financial Management, MDPI (2026)*
+  [[DOI Link]](https://doi.org/10.3390/jrfm19020126)
 
 ---
 
