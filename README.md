@@ -4,7 +4,7 @@
 
 📊 Experience across **banking, consulting, and academia** with expertise in data pipelines, regulatory reporting, and predictive modeling.  
 
-🌱 Current PhD research for **Financial Engineering Research Center (FRC)** of the Management Science Laboratory (MLS) **ML in decentralized finance (DeFi)** and **sustainable finance (ESG investment)**. 
+🌱 Current postdoctoral research for **Financial Engineering Research Center (FRC)** of the Management Science Laboratory (MLS) **ML in decentralized finance (DeFi)** and **sustainable finance (ESG investment)**. 
 
 ---
 
