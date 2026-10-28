@@ -1,4 +1,4 @@
-👋 Hello, I'm Athanasios Kranias, PhD
+Hi, I'm Athanasios Kranias 👋
 🎓 PhD in Financial Engineering (Athens University of Economics & Business) working at the intersection of quantitative finance, credit risk, and machine learning.
 🏦 Senior Credit Risk Analyst in banking, building automated regulatory reporting, data pipelines, and credit risk models.
 👨‍🏫 Adjunct Lecturer at the Department of Banking and Financial Management, University of Piraeus, teaching quantitative and data analytics.
@@ -33,10 +33,6 @@ Languages: 🇬🇷 Greek (Native) · 🇬🇧 English (C2) · 🇩🇪 German (
 🔗 LinkedIn
 🎓 Google Scholar
 🆔 ORCID
-📖 ResearchGate
-📄 CV
----
-⭐️ I believe in open science and reproducible research. Selected projects, datasets, and code will appear here soon.
 📖 ResearchGate
 📄 CV
 ---
